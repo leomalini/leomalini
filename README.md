@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Weather API](https://github.com/leomalini/WeatherAPI)
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **NextJs**
 
 - 📫 How to reach me **leomalini61@gmail.com**
 
