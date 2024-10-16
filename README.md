@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Malini Coradini</h1>
-<h3 align="center">A driven fullstack developer from Brasil</h3>
+<h3 align="center">A driven frontend developer from Brasil</h3>
 
 - 🔭 I’m currently working on [Weather API](https://github.com/leomalini/WeatherAPI)
 
